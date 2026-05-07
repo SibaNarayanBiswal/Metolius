@@ -1,0 +1,408 @@
+[
+  { name: 'ABCD', description: 'ABC Description' },
+  { name: 'ALMSTOM', description: 'ALMSTOM' },
+  { name: 'A-New company', description: 'A-New company' },
+  { name: 'Assign Upload Check', description: 'Assign Upload Check' },
+  {
+    name: 'Assign Upload Check 4',
+    description: 'Assign Upload Check 2'
+  },
+  {
+    name: 'Assign upload check 5',
+    description: 'Assign upload check 5'
+  },
+  {
+    name: 'Assign upload check 6',
+    description: 'Assign upload check 6'
+  },
+  {
+    name: 'Assign Upload Check 7',
+    description: 'Assign Upload Check 7'
+  },
+  { name: "Auralis's", description: 'creative and futuristic' },
+  {
+    name: 'Automated by API 1777379707054',
+    description: "New company Description'"
+  },
+  {
+    name: 'Automated by API 1777379833778',
+    description: "New company Description'"
+  },
+  {
+    name: 'Automated by API 1778135365882',
+    description: "New company Description'"
+  },
+  {
+    name: 'Automation company',
+    description: 'Automation Company Description'
+  },
+  { name: 'c1', description: 'd' },
+  {
+    name: 'check company new 1',
+    description: 'check company new 1 desc'
+  },
+  {
+    name: 'Checking new dummy survey',
+    description: 'Checking new dummy survey'
+  },
+  { name: 'Color check', description: 'Color check' },
+  { name: 'Company 02.03.2026', description: 'Company 02.03.2026' },
+  { name: 'company 101', description: 'company 101' },
+  { name: 'company 12.04', description: 'company 12.04' },
+  { name: 'Company 18.07.25', description: 'New company' },
+  { name: 'Company 1-dummy', description: 'Company 1-dummy' },
+  { name: 'Company 2 demo', description: 'Company 2 demo' },
+  { name: 'Company 21', description: 'Company 21' },
+  { name: 'Company 22', description: 'Company 22' },
+  { name: 'Company 26.11.25', description: 'Company 26.11.25' },
+  {
+    name: 'Company for dummy 19.02.26',
+    description: 'Company for dummy 19.02.26'
+  },
+  { name: 'Company Test(1)', description: 'Company Test(1)' },
+  {
+    name: 'Company to be deleted-13.02',
+    description: 'Company to be deleted-13.02'
+  },
+  { name: 'd1', description: 'd' },
+  { name: 'demo upload', description: 'dfg' },
+  { name: 'demo upload 1', description: 'vczxvxcv' },
+  { name: 'demo upload 2', description: 'df' },
+  { name: 'demo upload feb 19', description: 'desc' },
+  {
+    name: 'Demographic Upload Check',
+    description: 'Demographic Upload Check...123456'
+  },
+  {
+    name: 'Department Restriction',
+    description: 'for checking Department Restriction'
+  },
+  { name: 'dev test company 01', description: 'desc' },
+  {
+    name: 'Development Check 1001',
+    description: 'Development Check 1001'
+  },
+  { name: 'Dummy Company 1', description: 'Dummy Company 1' },
+  {
+    name: 'Dummy Company 1001',
+    description: 'Dummy Company Description 1001'
+  },
+  {
+    name: 'Dummy Company 1002',
+    description: 'Dummy Company Description 1002'
+  },
+  { name: 'dummy company 2', description: 'dsf' },
+  {
+    name: 'dummy company check 10',
+    description: 'dummy company check 10'
+  },
+  { name: 'Dummy Creation', description: 'Dummy Creation' },
+  { name: 'Dummy Data Check - 19.11', description: 'Data Check' },
+  {
+    name: 'dummy data check 13.11.25',
+    description: 'dummy data check 13.11.25'
+  },
+  { name: 'Dummy data creation', description: 'Dummy data creation' },
+  { name: 'dummy nov 10 - 1', description: 'dummy nov 10 - 1' },
+  { name: 'dummy nov 10 - 11', description: 'df' },
+  { name: 'dummy nov 10 - 13', description: 'sd' },
+  { name: 'dummy nov 10 - 5', description: 'fg' },
+  { name: 'dummy nov 10 - 6', description: 'df' },
+  { name: 'dummy nov 10 - 7', description: 'g' },
+  { name: 'dummy nov 10 - 8', description: 'd' },
+  { name: 'dummy nov 10 - 9', description: 'df' },
+  { name: 'DUMMY NOV CHECK - 2', description: 'DUMMY NOV CHECK - 2' },
+  { name: 'DUMMY NOV CHECK - 3', description: 'fg' },
+  {
+    name: 'ForCheckingDemographic(13.02)',
+    description: 'For Checking Demographic(13.02)'
+  },
+  { name: 'iAD', description: 'Software Development' },
+  { name: 'IBBS', description: 'IBBS' },
+  { name: 'Kaushik-Company', description: 'Kaushik-Company' },
+  {
+    name: 'New company 10/11/2025',
+    description: 'New company 10/11/2025'
+  },
+  {
+    name: 'New company 10/11/2025 - 2',
+    description: 'New company 10/11/2025 - 2'
+  },
+  {
+    name: 'New company 13/02/2026',
+    description: 'New company 13/02/2026'
+  },
+  {
+    name: 'New company 19/11/2025',
+    description: 'New company 19/11/2025'
+  },
+  { name: 'QA-company-1', description: 'QA-company-description' },
+  {
+    name: 'Test company 03/12/2025',
+    description: 'Test company 03/12/2025'
+  },
+  {
+    name: 'test company 25-2-26',
+    description: 'test company 25-2-26 test description'
+  },
+  {
+    name: 'Test regression company',
+    description: 'Test regression company'
+  },
+  {
+    name: 'updated Autmated company 1777958850551',
+    description: 'updated Automated company desription 1777958850551'
+  },
+  {
+    name: 'updated Autmated company 1777958905799',
+    description: 'updated Automated company desription 1777958905799'
+  },
+  {
+    name: 'updated Automated company 1777444740099',
+    description: 'updated Automated company description 1777444740099'
+  },
+  {
+    name: 'updated Automated company 1777446284702',
+    description: 'updated Automated company description 1777446284702'
+  },
+  {
+    name: 'updated Automated company 1777447739431',
+    description: 'updated Automated company description 1777447739431'
+  },
+  {
+    name: 'updated Automated company 1777959235379',
+    description: 'updated Automated company description 1777959235379'
+  },
+  {
+    name: 'updated Automated company 1777959458796',
+    description: 'updated Automated company description 1777959458796'
+  },
+  {
+    name: 'updated Automated company 1777959687077',
+    description: 'updated Automated company description 1777959687077'
+  },
+  {
+    name: 'updated Automated company 1777959819361',
+    description: 'updated Automated company description 1777959819361'
+  },
+  {
+    name: 'updated Automated company 1777959819368',
+    description: 'updated Automated company description 1777959819368'
+  },
+  {
+    name: 'updated Automated company 1777959819457',
+    description: 'updated Automated company description 1777959819457'
+  },
+  {
+    name: 'updated Automated company 1777959819517',
+    description: 'updated Automated company description 1777959819517'
+  },
+  {
+    name: 'updated Automated company 1777961660584',
+    description: 'updated Automated company description 1777961660584'
+  }
+]
+[
+  { name: 'ABCD', description: 'ABC Description' },
+  { name: 'ALMSTOM', description: 'ALMSTOM' },
+  { name: 'A-New company', description: 'A-New company' },
+  { name: 'Assign Upload Check', description: 'Assign Upload Check' },
+  {
+    name: 'Assign Upload Check 4',
+    description: 'Assign Upload Check 2'
+  },
+  {
+    name: 'Assign upload check 5',
+    description: 'Assign upload check 5'
+  },
+  {
+    name: 'Assign upload check 6',
+    description: 'Assign upload check 6'
+  },
+  {
+    name: 'Assign Upload Check 7',
+    description: 'Assign Upload Check 7'
+  },
+  { name: "Auralis's", description: 'creative and futuristic' },
+  {
+    name: 'Automated by API 1777379707054',
+    description: "New company Description'"
+  },
+  {
+    name: 'Automated by API 1777379833778',
+    description: "New company Description'"
+  },
+  {
+    name: 'Automated by API 1778135365882',
+    description: "New company Description'"
+  },
+  {
+    name: 'Automation company',
+    description: 'Automation Company Description'
+  },
+  { name: 'c1', description: 'd' },
+  {
+    name: 'check company new 1',
+    description: 'check company new 1 desc'
+  },
+  {
+    name: 'Checking new dummy survey',
+    description: 'Checking new dummy survey'
+  },
+  { name: 'Color check', description: 'Color check' },
+  { name: 'Company 02.03.2026', description: 'Company 02.03.2026' },
+  { name: 'company 101', description: 'company 101' },
+  { name: 'company 12.04', description: 'company 12.04' },
+  { name: 'Company 18.07.25', description: 'New company' },
+  { name: 'Company 1-dummy', description: 'Company 1-dummy' },
+  { name: 'Company 2 demo', description: 'Company 2 demo' },
+  { name: 'Company 21', description: 'Company 21' },
+  { name: 'Company 22', description: 'Company 22' },
+  { name: 'Company 26.11.25', description: 'Company 26.11.25' },
+  {
+    name: 'Company for dummy 19.02.26',
+    description: 'Company for dummy 19.02.26'
+  },
+  { name: 'Company Test(1)', description: 'Company Test(1)' },
+  {
+    name: 'Company to be deleted-13.02',
+    description: 'Company to be deleted-13.02'
+  },
+  { name: 'd1', description: 'd' },
+  { name: 'demo upload', description: 'dfg' },
+  { name: 'demo upload 1', description: 'vczxvxcv' },
+  { name: 'demo upload 2', description: 'df' },
+  { name: 'demo upload feb 19', description: 'desc' },
+  {
+    name: 'Demographic Upload Check',
+    description: 'Demographic Upload Check...123456'
+  },
+  {
+    name: 'Department Restriction',
+    description: 'for checking Department Restriction'
+  },
+  { name: 'dev test company 01', description: 'desc' },
+  {
+    name: 'Development Check 1001',
+    description: 'Development Check 1001'
+  },
+  { name: 'Dummy Company 1', description: 'Dummy Company 1' },
+  {
+    name: 'Dummy Company 1001',
+    description: 'Dummy Company Description 1001'
+  },
+  {
+    name: 'Dummy Company 1002',
+    description: 'Dummy Company Description 1002'
+  },
+  { name: 'dummy company 2', description: 'dsf' },
+  {
+    name: 'dummy company check 10',
+    description: 'dummy company check 10'
+  },
+  { name: 'Dummy Creation', description: 'Dummy Creation' },
+  { name: 'Dummy Data Check - 19.11', description: 'Data Check' },
+  {
+    name: 'dummy data check 13.11.25',
+    description: 'dummy data check 13.11.25'
+  },
+  { name: 'Dummy data creation', description: 'Dummy data creation' },
+  { name: 'dummy nov 10 - 1', description: 'dummy nov 10 - 1' },
+  { name: 'dummy nov 10 - 11', description: 'df' },
+  { name: 'dummy nov 10 - 13', description: 'sd' },
+  { name: 'dummy nov 10 - 5', description: 'fg' },
+  { name: 'dummy nov 10 - 6', description: 'df' },
+  { name: 'dummy nov 10 - 7', description: 'g' },
+  { name: 'dummy nov 10 - 8', description: 'd' },
+  { name: 'dummy nov 10 - 9', description: 'df' },
+  { name: 'DUMMY NOV CHECK - 2', description: 'DUMMY NOV CHECK - 2' },
+  { name: 'DUMMY NOV CHECK - 3', description: 'fg' },
+  {
+    name: 'ForCheckingDemographic(13.02)',
+    description: 'For Checking Demographic(13.02)'
+  },
+  { name: 'iAD', description: 'Software Development' },
+  { name: 'IBBS', description: 'IBBS' },
+  { name: 'Kaushik-Company', description: 'Kaushik-Company' },
+  {
+    name: 'New company 10/11/2025',
+    description: 'New company 10/11/2025'
+  },
+  {
+    name: 'New company 10/11/2025 - 2',
+    description: 'New company 10/11/2025 - 2'
+  },
+  {
+    name: 'New company 13/02/2026',
+    description: 'New company 13/02/2026'
+  },
+  {
+    name: 'New company 19/11/2025',
+    description: 'New company 19/11/2025'
+  },
+  { name: 'QA-company-1', description: 'QA-company-description' },
+  {
+    name: 'Test company 03/12/2025',
+    description: 'Test company 03/12/2025'
+  },
+  {
+    name: 'test company 25-2-26',
+    description: 'test company 25-2-26 test description'
+  },
+  {
+    name: 'Test regression company',
+    description: 'Test regression company'
+  },
+  {
+    name: 'updated Autmated company 1777958850551',
+    description: 'updated Automated company desription 1777958850551'
+  },
+  {
+    name: 'updated Autmated company 1777958905799',
+    description: 'updated Automated company desription 1777958905799'
+  },
+  {
+    name: 'updated Automated company 1777444740099',
+    description: 'updated Automated company description 1777444740099'
+  },
+  {
+    name: 'updated Automated company 1777446284702',
+    description: 'updated Automated company description 1777446284702'
+  },
+  {
+    name: 'updated Automated company 1777447739431',
+    description: 'updated Automated company description 1777447739431'
+  },
+  {
+    name: 'updated Automated company 1777959235379',
+    description: 'updated Automated company description 1777959235379'
+  },
+  {
+    name: 'updated Automated company 1777959458796',
+    description: 'updated Automated company description 1777959458796'
+  },
+  {
+    name: 'updated Automated company 1777959687077',
+    description: 'updated Automated company description 1777959687077'
+  },
+  {
+    name: 'updated Automated company 1777959819361',
+    description: 'updated Automated company description 1777959819361'
+  },
+  {
+    name: 'updated Automated company 1777959819368',
+    description: 'updated Automated company description 1777959819368'
+  },
+  {
+    name: 'updated Automated company 1777959819457',
+    description: 'updated Automated company description 1777959819457'
+  },
+  {
+    name: 'updated Automated company 1777959819517',
+    description: 'updated Automated company description 1777959819517'
+  },
+  {
+    name: 'updated Automated company 1777961660584',
+    description: 'updated Automated company description 1777961660584'
+  }
+]

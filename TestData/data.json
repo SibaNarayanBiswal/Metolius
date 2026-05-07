@@ -1,0 +1,18 @@
+[
+    {"email":"MC iBridge",
+    "password":"iBridgeMC@123#",
+    "Validity":"Valid"
+},
+    {"email":"MC Professional",
+    "password":"iBridgeMC@123#",
+    "Validity":"Valid"
+}
+    {"email":"",
+    "password":"",
+    "Validity":"Inalid"
+}
+    {"email":"wrong iBridge",
+    "password":"wrong-iBridgeMC@123#",
+    "Validity":"Inalid"
+}
+]

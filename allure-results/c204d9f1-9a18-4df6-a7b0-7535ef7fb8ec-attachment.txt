@@ -1,0 +1,56 @@
+WebToken:eyJhbGciOiJIUzI1NiIsImlzcyI6ImlCcmlkZ2UgQW5hbHlzaXMgYW5kIERldmVsb3BtZW50IFB2dCBMdGQifQ.eyJ1cmwiOiJzdXJ2ZXlzdGcuaWJyaWRnZWxsYy5jb20iLCJjb21wYW55TWFzdGVySUQiOjEsImNvbXBhbnlJRCI6MCwidXNlck1hc3RlcklEIjoyLCJ1c2VySUQiOjIsInJvbGVJRCI6Miwicm9sZVNlcXVlbmNlIjoyMCwiaXNWaWV3QWxpYXMiOmZhbHNlLCJpc1NTTyI6ZmFsc2UsInN1YnNjcmlwdGlvbklEIjoiNCIsInN1YnNjcmlwdGlvblR5cGUiOiJFbnRlcnByaXNlIiwiaWF0IjoxNzc4MTM1MzY2LCJuYmYiOjE3NzgxMzUzNjYsImF1ZCI6Ik1ldG9saXVzIiwiZXhwIjoxNzc4MTc4NTY2fQ.4yW4GUYSVMV4-sE0FeZqlG7xy_RmB34P21PbBaF1S-c
+[
+  { menu: 'Dashboard', subMenus: [] },
+  {
+    menu: 'Org Structure',
+    subMenus: [
+      'Company Management',
+      'Department Management',
+      'Participant Management'
+    ]
+  },
+  {
+    menu: 'Surveys',
+    subMenus: [
+      'Manage Surveys',
+      'View Crosswalks',
+      'Resources',
+      'Create New Survey',
+      'Review & Edit',
+      'Question Setup',
+      'Audit Trail'
+    ]
+  },
+  {
+    menu: 'Distribution',
+    subMenus: [
+      'Assign & Send',
+      'Schedule Log',
+      'Participant Progress Report',
+      'Email Queue'
+    ]
+  },
+  {
+    menu: 'Analytics',
+    subMenus: [
+      'Question Analysis',
+      'Demographic Breakdown',
+      'Comparative Analysis'
+    ]
+  },
+  {
+    menu: 'Reports',
+    subMenus: [ 'Saved Reports', 'Participant Responses' ]
+  },
+  {
+    menu: 'Intelligent Reports',
+    subMenus: [
+      'Manage Templates',
+      'Manage Intelligent Reports',
+      'Saved Reports',
+      'Manage Datasets',
+      'Configure Report'
+    ]
+  }
+]
+The Fetched company id is 100393
